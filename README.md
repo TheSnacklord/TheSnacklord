@@ -18,7 +18,7 @@ I'm a highly motivated Mechanical Engineering student with hands-on experience i
 - **Simulation**: FEA, Motion Studies  
 - **Fabrication**: CNC Machining, Mill & Lathe Operation, Manual Tools  
 - **Programming**: Python, C#, Unity Game Engine  
-- **Collaboration Tools**: Git, Trello, Slack, Google Workspace  
+- **Collaboration Tools**: Git, Teams, Google Workspace  
 
 ---
 
