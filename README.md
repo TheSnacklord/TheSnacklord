@@ -31,7 +31,7 @@ I'm a highly motivated Mechanical Engineering student with hands-on experience i
 
 ### 🛠 Technical Side Projects  
 - **Unity 3D RPG Game**: Developed physics-based mechanics in Unity using C#  
-- **Python Simulation Tools**: Built custom programs to solve brine-mixing tank problems  
+- **Python Simulation Tools**: Built custom programs to solve a variety of problems
 - **Reverse Engineering**: Modeled and analyzed real-world products using SolidWorks
 
 ---
